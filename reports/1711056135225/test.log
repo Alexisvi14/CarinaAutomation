@@ -1,0 +1,21 @@
+[2024-03-21 09:22:15] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://www.ebay.com/
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserVersion=122.0.6261.129
+browserName=chrome
+===============================================
+
+[2024-03-21 09:22:15] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-03-21 09:22:19] [1] [INFO] Set thread-count=1
+[2024-03-21 09:22:19] [1] [INFO] Set data-provider-thread-count=1
+[2024-03-21 09:22:19] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2024-03-21 09:22:19] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2024-03-21 09:22:19] [1] [INFO] RESULT #1: TEST [Hello World test - helloWorld] PASS [log=file:///Users/alexisvillamayor/Solvd/CarinaAutomation/./reports/1711056135225/4618f735-2ece-4db5-abec-7a534cf4fdb1/test.log]

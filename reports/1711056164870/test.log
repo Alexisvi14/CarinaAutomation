@@ -1,0 +1,23 @@
+[2024-03-21 09:22:44] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://www.ebay.com/
+auto_screenshot=true
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+browserVersion=122.0.6261.129
+browserName=chrome
+===============================================
+
+[2024-03-21 09:22:45] [1] [WARN] Reporting disabled: using no op test run registrar
+[2024-03-21 09:22:48] [1] [INFO] [TestNG] Running:
+  /Users/alexisvillamayor/Library/Caches/JetBrains/IdeaIC2022.2/temp-testng-customsuite.xml
+
+[2024-03-21 09:22:48] [1] [INFO] Set thread-count=1
+[2024-03-21 09:22:48] [1] [INFO] Set data-provider-thread-count=1
+[2024-03-21 09:22:48] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2024-03-21 09:22:48] [1] [INFO] Starting driver session...
